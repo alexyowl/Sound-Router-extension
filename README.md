@@ -1,5 +1,6 @@
 # Sound Router
 Sound Router is the simplest browser extension for routing video sound between audio channels.
+
 Primarily designed for YouTube videos with broken sound.
 
 ### Features:
