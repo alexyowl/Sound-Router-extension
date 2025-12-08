@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Sound Router",
+  "version": "1.2",
+  "description": "Route video sound to left/right/mono audio channels.",
+  "permissions": ["scripting", "tabs", "activeTab"],
+  "host_permissions": ["<all_urls>"],
+  "web_accessible_resources": [
+    {
+      "resources": ["mono-processor.js"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
