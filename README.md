@@ -1,20 +1,16 @@
 # Sound Router
 Sound Router is the simplest browser extension for routing video sound between audio channels. 
 
-Supports all HTML5 video players.
-
-Supports capturing and routing sound for multiple browser tabs simultaneously.
-
 ### Features:
 * **Right** – switch sound to right ear.
 * **Left** – switch sound to left ear.
 * **Mono** – balance sound if video's original sound is offset.
 * **Reset** – reset sound to original.
 
-Extra: Click **Mono** several times to increace gain.
+Supports all HTML5 video players.
 
-![SoundRouterPreview](https://github.com/user-attachments/assets/0566e842-eb86-46f9-adfb-a80a9f3d042a)
-<br/><br/>
+Supports capturing and routing sound for multiple browser tabs simultaneously.
+
 Supports Chromium (Chrome, Thorium, Brave, Edge, Opera...) and Firefox based browsers.
 
 ## Download & Installation
